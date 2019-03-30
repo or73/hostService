@@ -1,3 +1,3 @@
-# Host Service
+# Deploying to a Hosting Service
 
-Web service running on Heroku
+Hosting Service.
